@@ -9,7 +9,7 @@ import java.sql.SQLException;
 
 
 @SpringBootTest
-class UserMapperTests {
+class StoreApplicationTests {
     @Autowired
     private DataSource dataSource;
 
